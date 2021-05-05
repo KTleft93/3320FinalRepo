@@ -17,6 +17,7 @@ it generates follows and likes without a user having to manually generate likes 
 
 
 <h2>Educational YouTube Playlist Maker</h2>
+
 * https://github.com/KTleft93/Educational-Playlist-Bot
 * Description: A bot that creates a playlist and adds videos to the playlist for viewing at anytime. The videos are of educational value and helps users educatte themselves while on YouTube.
 
